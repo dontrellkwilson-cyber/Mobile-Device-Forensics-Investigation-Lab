@@ -94,13 +94,9 @@ The Properties pane contained device details such as the model, device name, iOS
 
 The Contacts grid displayed names, phone numbers, email addresses, and available creation or modification timestamps.
 
-<!--
-Figure 2 image omitted because the previous URL pointed to an unrelated Active Directory network diagram.
-Upload the correct iPhone Contacts screenshot to GitHub and insert its user-attachments URL below.
-
 <p align="center">
-  <img src="PASTE_CORRECT_IPHONE_CONTACTS_IMAGE_URL_HERE"
-       alt="Paraben E3 displaying contacts recovered from the iPhone acquisition"
+  <img src="https://github.com/user-attachments/assets/2b1e6d7d-7206-4979-a4f9-fa57138cadec"
+       alt="iPhone mobile forensic investigation evidence"
        width="800">
 </p>
 -->
@@ -255,12 +251,9 @@ I then reviewed the Mobile Data Triage categories.
 
 The Android evidence identified an Honor smartphone manufactured by Huawei.
 
-<!--
-Upload the Android Device Information screenshot to GitHub and insert its user-attachments URL below.
-
 <p align="center">
-  <img src="PASTE_ANDROID_DEVICE_INFORMATION_IMAGE_URL_HERE"
-       alt="Paraben E3 displaying device information for the Honor Android smartphone"
+  <img src="https://github.com/user-attachments/assets/7c889223-1fc9-440f-80ac-527d5b808af8"
+       alt="iPhone mobile forensic investigation evidence"
        width="800">
 </p>
 -->

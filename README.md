@@ -99,6 +99,7 @@ The Contacts grid displayed names, phone numbers, email addresses, and available
        alt="iPhone mobile forensic investigation evidence"
        width="800">
 </p>
+
 ---
 
 <p align="center">
@@ -256,7 +257,8 @@ The Android evidence identified an Honor smartphone manufactured by Huawei.
        alt="iPhone mobile forensic investigation evidence"
        width="800">
 </p>
--->
+
+---
 
 <p align="center">
   <em>Figure 10: Device information for the Honor smartphone manufactured by Huawei.</em>

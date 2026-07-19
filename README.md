@@ -99,7 +99,7 @@ The Contacts grid displayed names, phone numbers, email addresses, and available
        alt="iPhone mobile forensic investigation evidence"
        width="800">
 </p>
--->
+---
 
 <p align="center">
   <em>Figure 2: Contacts recovered from the iPhone.</em>
